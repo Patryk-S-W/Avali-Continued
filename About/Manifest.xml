@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>Avali Continued</identifier>
+  <version>1.2.1</version>
+  <dependencies />
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter />
+  <manifestUri>https://raw.githubusercontent.com/Patryk-S-W/Avali-Continued/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Patryk-S-W/Avali-Continued/releases</downloadUri>
+</Manifest>
